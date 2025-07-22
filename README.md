@@ -69,9 +69,9 @@ You can view the live portfolio here:
 
 ---
 
+
+
 ## 🖼️ Screenshots
-
-
 ![1](1.png)
  ![2](2.png)
  ![3](3.png)
@@ -88,16 +88,6 @@ cd your-repo-name
 open portfolio.html
 rom AWS, HackerRank, Oracle, etc.  
 - **Contact**: Form and direct links (email, phone, LinkedIn, GitHub)
-
----
-
-## 🖼️ Screenshots
-
-![Screenshot](Screenshot 2025-07-22 093231.png)
-![Screenshot](Screenshot 2025-07-22 093325.png)
-![Screenshot](Screenshot 2025-07-22 093438.png)
-![Screenshot](Screenshot 2025-07-22 093452.png)
-![Screenshot](Screenshot 2025-07-22 093508.png)
 ---
 
 ## 📦 Installation
