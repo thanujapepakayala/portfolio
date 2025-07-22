@@ -83,7 +83,7 @@ You can use `![Screenshot](Screenshot 2025-07-22 093231.png)`
 
 To run this portfolio locally:
 
-```bash
+
 git clone https://github.com/yourusername/your-repo-name.git
 cd your-repo-name
 open portfolio.html
