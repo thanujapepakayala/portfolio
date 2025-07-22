@@ -72,11 +72,11 @@ You can view the live portfolio here:
 ## 🖼️ Screenshots
 
 
-![Screenshot](Screenshot 2025-07-22 093325.png)
- ![Screenshot](Screenshot 2025-07-22 093438.png)
- ![Screenshot](Screenshot 2025-07-22 093452.png)
-  ![Screenshot](Screenshot 2025-07-22 093508.png)
-
+![1](1.png)
+ ![2](2.png)
+ ![3](3.png)
+  ![4](4.png)
+ ![5](5.png)
 
 ## 📦 Installation
 
