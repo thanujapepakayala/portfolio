@@ -94,8 +94,11 @@ rom AWS, HackerRank, Oracle, etc.
 
 ## 🖼️ Screenshots
 
-`![Screenshot]()`.
-
+![Screenshot](Screenshot 2025-07-22 093231.png)
+![Screenshot](Screenshot 2025-07-22 093325.png)
+![Screenshot](Screenshot 2025-07-22 093438.png)
+![Screenshot](Screenshot 2025-07-22 093452.png)
+![Screenshot](Screenshot 2025-07-22 093508.png)
 ---
 
 ## 📦 Installation
