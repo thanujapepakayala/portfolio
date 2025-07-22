@@ -9,9 +9,7 @@ This portfolio is built using **HTML**, **CSS**, and **JavaScript**, with custom
 ## 🚀 Live Preview
 
 You can view the live portfolio here:  
-🔗 [https://yourusername.github.io/your-repo-name](https://yourusername.github.io/your-repo-name)  
-*(Replace with your actual GitHub Pages URL)*
-
+🔗(https://thanujapepakayala.github.io/portfolio)  
 ---
 
 ## 🧰 Tech Stack
@@ -42,35 +40,9 @@ This portfolio is built using **HTML**, **CSS**, and **JavaScript**, with custom
 ## 🚀 Live Preview
 
 You can view the live portfolio here:  
-🔗 [https://yourusername.github.io/your-repo-name](https://yourusername.github.io/your-repo-name)  
-*(Replace with your actual GitHub Pages URL)*
+🔗 (https://yourusername.github.io/your-repo-name)
 
 ---
-
-## 🧰 Tech Stack
-
-- **Frontend**: HTML5, CSS3, JavaScript  
-- **Icons & Fonts**: Font Awesome  
-- **Responsive Design**: CSS Flex/Grid, media queries  
-- **Deployment**: GitHub Pages / Localhost
-
----
-
-## 📚 Sections Included
-
-- **Profile**: Summary of background and interests  
-- **Skills**: Technical and soft skills visualized in grid format  
-- **Experience**: Internship at BlueStock Fintech  
-- **Education**: Academic journey and performance  
-- **Projects**: Portfolio and Forum Website  
-- **Achievements**: Competitions, workshops, and clubs  
-- **Certificates**: Professional certifications from AWS, HackerRank, Oracle, etc.  
-- **Contact**: Form and direct links (email, phone, LinkedIn, GitHub)
-
----
-
-
-
 ## 🖼️ Screenshots
 ![1](1.png)
  ![2](2.png)
@@ -83,18 +55,7 @@ You can view the live portfolio here:
 To run this portfolio locally:
 
 
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/thanujapepakayala/portfolio.git
 open portfolio.html
 rom AWS, HackerRank, Oracle, etc.  
 - **Contact**: Form and direct links (email, phone, LinkedIn, GitHub)
----
-
-## 📦 Installation
-
-To run this portfolio locally:
-
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-open portfolio.html
